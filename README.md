@@ -42,7 +42,17 @@
 4. [nltk](https://pypi.org/project/nltk/)
 
    ```pip install nltk```
+   
+## Execution
 
+- Order of execution:
+	1. ```data_cleaning.py```
+	2. ```topic_modeling.py```
+	3. ```topic_clustering.py```
+	4. ```document_summarization.py```
+	5. ```evaluation.py```
+	
+- One can combine the codes of all the above python files in a Python notebook (Eg: Jupyter notebook, Google Colab, etc.) and execute them in the above order.
 
 ## Contact
 

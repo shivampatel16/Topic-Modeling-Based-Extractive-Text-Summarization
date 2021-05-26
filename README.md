@@ -25,6 +25,25 @@
 }
 ```
 
+## Dependencies
+
+1. [pyLDAvis](https://pypi.org/project/pyLDAvis/)
+
+   ```pip install pyLDAvis```
+
+2. [py-rouge](https://pypi.org/project/py-rouge/)
+
+   ```pip install py-rouge```
+   
+3. [summa](https://pypi.org/project/summa/)
+
+   ```pip install summa```
+   
+4. [nltk](https://pypi.org/project/nltk/)
+
+   ```pip install nltk```
+
+
 ## Contact
 
 shivam.patel1606@gmail.com
